@@ -1,1 +1,1 @@
-- [Linux命令](./Linux命令)
+- [Linux命令](./Linux命令/)
